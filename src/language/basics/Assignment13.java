@@ -13,8 +13,8 @@ public class Assignment13 {
 		int n = 7;
 		int temp =0;
 		int result=0;
-		int y=result;
-		int z=result +1;
+		int y=0;
+		int z=0;
 		
 			for (int i=1;i<=n;i++) {
 				if (n%i==0) {
