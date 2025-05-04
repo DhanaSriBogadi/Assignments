@@ -10,7 +10,7 @@ public class Assignment13 {
 		Output: true
 		Explanation: 7 has exactly two divisors: 1 and 7, making it a prime number.*/
 		
-		int n = 7;
+		int n = 2;
 		int temp =0;
 		int result=0;
 		int y=0;
